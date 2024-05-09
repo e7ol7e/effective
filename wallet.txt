@@ -1,0 +1,176 @@
+[
+    {
+        "date": "2023-01-04",
+        "category": "Expense",
+        "amount": 150.0,
+        "description": "Books and Supplies"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-03",
+        "category": "Доход",
+        "amount": 200.0,
+        "description": "Фриланс"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-02",
+        "category": "Расход",
+        "amount": 50.0,
+        "description": "Кофе"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-03",
+        "category": "Доход",
+        "amount": 200.0,
+        "description": "Фриланс"
+    },
+    {
+        "date": "2023-01-03",
+        "category": "Доход",
+        "amount": 200.0,
+        "description": "Фриланс"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-01",
+        "category": "Доход",
+        "amount": 100.0,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2023-01-04",
+        "category": "Расход",
+        "amount": 100.0,
+        "description": "Книги"
+    }
+]
