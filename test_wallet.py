@@ -108,3 +108,5 @@ def test_wallet_edit_record():
     wallet.edit_record(0, new_record)
     assert wallet.records[0].amount == 150.0 and wallet.records[0].description == "Books and Supplies", \
            "Wallet edit_record method failed"
+    with open("test_wallet.txt", 'w') as file:
+        pass
